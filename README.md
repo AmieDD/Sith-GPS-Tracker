@@ -19,7 +19,7 @@ National Marine Electronics Association (NMEA) is the format that defines how GP
 $GPGGA
 Global Positioning System Fix Data
 
-
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ZdPEDVwcWG8PasvFxZIklAYIGZzAyV6v" width="640" height="480"></iframe>
 
 NMEA Header | Value | Description
 ------------ | ------------- | ------
